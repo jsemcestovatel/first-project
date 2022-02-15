@@ -3,11 +3,19 @@ bnody {
 }
 
 h1 {
-    font-size: 60px;
-    color: #ce6767;
+  font-size: 5em;
+  color: #ce6767;
+}
+
+h2 {
+  font-size: 3em;
+  color: cadetblue;
 }
 
 .header {
   height: 100px;
-  background-color: #000;
+  background-color: navajowhite;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
