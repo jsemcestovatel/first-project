@@ -1,4 +1,13 @@
+bnody {
+  margin: 0;
+}
+
 h1 {
     font-size: 60px;
     color: #ce6767;
+}
+
+.header {
+  height: 100px;
+  background-color: #000;
 }
